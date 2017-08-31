@@ -4,4 +4,5 @@ selenium-webdriver(chrome)テスト用のコードたち（各種言語）
 - ruby
 
 ##  処理内容
-chromeでGoogleを開いて、検索をかけるテスト
+ChromeでGoogleを開いて、検索をかけるテスト
+(処理終了時ブラウザが閉じない仕様)
