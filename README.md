@@ -2,7 +2,7 @@
 selenium-webdriver(chrome)テスト用のコードたち（各種言語）
 - python3
 - ruby
--C#
+- C#
 
 ##  処理内容
 ChromeでGoogleを開いて、検索をかけるテスト
